@@ -11,4 +11,10 @@ So, in short: After running the macro, **WEBER (XX/XX) becomes WEBER (EPP/DE)**.
 All best,
 Chris VAN DE WEIJER
 
-Please read the added Word document for the guidelines on how to add the macro to Word
+Please read the added Word document for the guidelines on how to add the macro to Word 
+OR
+Follow the steps below with the .bas file:
+
+1. Open the word documents where you had your macros
+2. ALT+F11 to open VBA Editor
+3. On a module, right click > import file and add the *.bas file
